@@ -50,9 +50,18 @@
 }
 .Square:hover{
   background-color: greenyellow;
+  
+  h3{
+    color: red;
+    cursor:no-drop;
+  }
+}
+#fill{
+  cursor: crosshair;
 }
 .Square h3{
-  font-size: 2rem;
+  font-size: 5rem;
+
 }
 button{
   background-color: green;
