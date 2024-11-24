@@ -48,6 +48,9 @@
   align-items: center;
   background-color: white;
 }
+.Square:hover{
+  background-color: greenyellow;
+}
 .Square h3{
   font-size: 2rem;
 }
